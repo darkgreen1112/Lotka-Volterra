@@ -18,8 +18,18 @@ Lotka-Volterra
 
 Примеры построения графиков при различных параметрах модели. 
 
+Пример 1
+
 Функция от времени в модели Лотки — Вольтерры
+![Screenshot](grap1.jpg)
 
 Phase Space plot (график Фазовой плоскости)
+![Screenshot](grap2.jpg)
 
+Пример 2
 
+Функция от времени в модели Лотки — Вольтерры
+![Screenshot](grap3.jpg)
+
+Phase Space plot (график Фазовой плоскости)
+![Screenshot](grap4.jpg)
